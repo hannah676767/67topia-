@@ -62,3 +62,32 @@ footer {
   color: white;
   border-top: 4px solid #004080;
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hannah ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hannah ❤️</h1>
+  </header>
+
+  <main>
+    <section class="bio">
+      <h2>About Me</h2>
+      <p>
+        Hi! I’m part of <strong>Smash 13's Volleyball</strong> and I go to 
+        <strong>Dexter Southfield</strong>.  
+        I created this website to share my passion for volleyball and connect with others!
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Hannah’s Website</p>
+  </footer>
+</body>
+</html>
